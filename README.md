@@ -5,303 +5,198 @@ Aprenda a **criar soluções com IA** de forma criativa, guiando ferramentas com
 ## 📝 PRD refinado pelo Chatgpt
 
 ```txt
-
-
 (Provisório): Agente Financeiro Conversacional
+================================================
 
-🌍 Visão do Produto
-
+🌍 VISÃO DO PRODUTO
+------------------------------------------------
 Aplicativo de organização financeira pessoal baseado em conversação em linguagem natural, permitindo que qualquer pessoa organize sua vida financeira sem formulários, planilhas ou conhecimento técnico.
 
 O app atua como um assistente financeiro pessoal, com simplicidade, empatia e inteligência contextual.
 
-❗ Problema
-
+❗ PROBLEMA
+------------------------------------------------
 Apps financeiros tradicionais:
 
-Exigem alto esforço cognitivo
+- Exigem alto esforço cognitivo
+- Entrada manual estruturada
+- Conhecimento prévio de finanças
+- Interfaces complexas
+- Baixa retenção e alto abandono
 
-Entrada manual estruturada
+👥 PÚBLICO-ALVO
+------------------------------------------------
+- Jovens adultos
+- Pessoas endividadas
+- Usuários com baixa alfabetização digital
+- Pessoas que nunca usaram apps financeiros
+- Usuários sobrecarregados por apps complexos
 
-Conhecimento prévio de finanças
+🎯 OBJETIVOS DO PRODUTO
+------------------------------------------------
+- Reduzir fricção de uso
+- Simplificar controle financeiro
+- Criar hábito de organização
+- Aumentar constância de uso
+- Criar vínculo emocional
+- Tornar finanças algo leve e cotidiano
 
-Interfaces complexas
+💎 PROPOSTA DE VALOR
+------------------------------------------------
+“Organize seu dinheiro conversando.
+Sem planilhas. Sem formulários. Sem complicação.”
 
-Baixa retenção e alto abandono
+🎨 PRINCÍPIOS DE DESIGN UNIVERSAL
+------------------------------------------------
 
-👥 Público-Alvo
+1) Simplicidade Cognitiva
+- Linguagem clara
+- Frases curtas
+- Vocabulário não técnico
+- Sem jargões
+- Comunicação educativa
 
-Jovens adultos
+2) Acessibilidade Visual
+- Alto contraste
+- Tipografia legível
+- Hierarquia clara
+- Interface limpa
+- Pouca informação por tela
 
-Pessoas endividadas
+3) Acessibilidade de Interação
+- Poucos cliques
+- Fluxos curtos
+- Navegação previsível
+- Botões grandes
+- Feedback imediato
+- Ações reversíveis
 
-Usuários com baixa alfabetização digital
+4) Inclusão Funcional
+- Uso sem conhecimento prévio
+- Sem leitura longa
+- Sem dependência de memória
+- Sem aprendizagem técnica
+- Intuitivo desde o primeiro acesso
 
-Pessoas que nunca usaram apps financeiros
+🚀 FUNCIONALIDADES DO MVP
+------------------------------------------------
 
-Usuários sobrecarregados por apps complexos
-
-🎯 Objetivos do Produto
-
-Reduzir fricção de uso
-
-Simplificar controle financeiro
-
-Criar hábito de organização
-
-Aumentar constância de uso
-
-Criar vínculo emocional
-
-Tornar finanças algo leve e cotidiano
-
-💎 Proposta de Valor
-
-“Organize seu dinheiro conversando. Sem planilhas. Sem formulários. Sem complicação.”
-
-🎨 Princípios de Design Universal
-1. Simplicidade Cognitiva
-
-Linguagem clara
-
-Frases curtas
-
-Vocabulário não técnico
-
-Sem jargões
-
-Comunicação educativa
-
-2. Acessibilidade Visual
-
-Alto contraste
-
-Tipografia legível
-
-Hierarquia clara
-
-Interface limpa
-
-Pouca informação por tela
-
-3. Acessibilidade de Interação
-
-Poucos cliques
-
-Fluxos curtos
-
-Navegação previsível
-
-Botões grandes
-
-Feedback imediato
-
-Ações reversíveis
-
-4. Inclusão Funcional
-
-Uso sem conhecimento prévio
-
-Sem leitura longa
-
-Sem dependência de memória
-
-Sem aprendizagem técnica
-
-Intuitivo desde o primeiro acesso
-
-🚀 Funcionalidades do MVP
 💬 Conversa Financeira
-
-Registro de gastos por linguagem natural
-
-Registro de ganhos por linguagem natural
-
-Detecção automática de transações
-
-Classificação automática por categoria
-
-Confirmação simples
-
-Correção manual simplificada
+- Registro de gastos por linguagem natural
+- Registro de ganhos por linguagem natural
+- Detecção automática de transações
+- Classificação automática por categoria
+- Confirmação simples
+- Correção manual simplificada
 
 🎯 Metas Financeiras
-
-Criação por conversa
-
-Metas mensais automáticas
-
-Acompanhamento visual simples
-
-Alertas proativos
-
-Replanejamento automático
+- Criação por conversa
+- Metas mensais automáticas
+- Acompanhamento visual simples
+- Alertas proativos
+- Replanejamento automático
 
 📊 Relatórios
-
-Resumo mensal
-
-Categorias principais
-
-Tendências simples
-
-Comparação mensal
-
-Insights automatizados
+- Resumo mensal
+- Categorias principais
+- Tendências simples
+- Comparação mensal
+- Insights automatizados
 
 🤖 Agente Financeiro
+- Personagem digital
+- Tom empático
+- Linguagem educativa
+- Comunicação humana
+- Dicas contextualizadas
+- Alertas inteligentes
+- Feedback positivo
+
+🧱 TELAS DO MVP
+------------------------------------------------
+- Onboarding conversacional
+- Chat principal
+- Dashboard financeiro
+- Metas
+- Relatórios
+- Perfil financeiro
+- Configurações acessíveis
+
+🎨 REQUISITOS DE UX/UI
+------------------------------------------------
+- Interface minimalista
+- Chat como núcleo
+- Navegação híbrida (chat + abas)
+- Sem menus profundos
+- Feedback visual constante
+- Microinterações leves
+- Animações suaves
+- Sem overload de informação
+
+⚙️ REQUISITOS FUNCIONAIS
+------------------------------------------------
+- NLP (Processamento de linguagem natural)
+- Classificação automática
+- Sistema de metas
+- Histórico
+- Relatórios
+- Perfil do usuário
+- Insights
+- Persistência local
+- Sincronização em nuvem (futuro)
+
+🛡️ REQUISITOS NÃO FUNCIONAIS
+------------------------------------------------
+- Baixo consumo cognitivo
+- Baixo consumo de bateria
+- Alta performance
+- Baixa latência
+- Interface responsiva
+- Suporte offline básico
+- Segurança de dados
+- Privacidade por padrão
+
+✅ CRITÉRIOS DE SUCESSO (MVP)
+------------------------------------------------
+- Registrar gasto em < 10s
+- Uso sem tutorial
+- Criar ao menos 1 meta
+- Retorno no dia seguinte
+- Compreensão dos gastos
+- Confiança nas classificações
+
+🧪 VALIDAÇÃO INICIAL
+------------------------------------------------
+- Testes com usuários reais
+- Teste de onboarding
+- Teste de entendimento
+- Teste de retenção (7 dias)
+- Teste de confiança
+- Teste de clareza de linguagem
+
+🗣️ DIRETRIZES DE LINGUAGEM
+------------------------------------------------
+- Tom humano
+- Tom empático
+- Sem termos técnicos
+- Sem julgamento
+- Sem culpa
+- Sem pressão
+- Comunicação positiva
+- Comunicação educativa
+
+📈 ESCALABILIDADE FUTURA
+------------------------------------------------
+- Integração bancária
+- Open Finance
+- Cartões
+- Investimentos
+- Crédito
+- Planejamento financeiro
+- Educação financeira
+- Marketplace financeiro
+- Parcerias com fintechs
 
-Personagem digital
-
-Tom empático
-
-Linguagem educativa
-
-Comunicação humana
-
-Dicas contextualizadas
-
-Alertas inteligentes
-
-Feedback positivo
-
-🧱 Telas do MVP
-
-Onboarding conversacional
-
-Chat principal
-
-Dashboard financeiro
-
-Metas
-
-Relatórios
-
-Perfil financeiro
-
-Configurações acessíveis
-
-🎨 Requisitos de UX/UI
-
-Interface minimalista
-
-Chat como núcleo
-
-Navegação híbrida (chat + abas)
-
-Sem menus profundos
-
-Feedback visual constante
-
-Microinterações leves
-
-Animações suaves
-
-Sem overload de informação
-
-⚙️ Requisitos Funcionais
-
-NLP (Processamento de linguagem natural)
-
-Classificação automática
-
-Sistema de metas
-
-Histórico
-
-Relatórios
-
-Perfil do usuário
-
-Insights
-
-Persistência local
-
-Sincronização em nuvem (futuro)
-
-🛡️ Requisitos Não Funcionais
-
-Baixo consumo cognitivo
-
-Baixo consumo de bateria
-
-Alta performance
-
-Baixa latência
-
-Interface responsiva
-
-Suporte offline básico
-
-Segurança de dados
-
-Privacidade por padrão
-
-✅ Critérios de Sucesso (MVP)
-
-Registrar gasto em < 10s
-
-Uso sem tutorial
-
-Criar ao menos 1 meta
-
-Retorno no dia seguinte
-
-Compreensão dos gastos
-
-Confiança nas classificações
-
-🧪 Validação Inicial
-
-Testes com usuários reais
-
-Teste de onboarding
-
-Teste de entendimento
-
-Teste de retenção (7 dias)
-
-Teste de confiança
-
-Teste de clareza de linguagem
-
-🗣️ Diretrizes de Linguagem
-
-Tom humano
-
-Tom empático
-
-Sem termos técnicos
-
-Sem julgamento
-
-Sem culpa
-
-Sem pressão
-
-Comunicação positiva
-
-Comunicação educativa
-
-📈 Escalabilidade Futura
-
-Integração bancária
-
-Open Finance
-
-Cartões
-
-Investimentos
-
-Crédito
-
-Planejamento financeiro
-
-Educação financeira
-
-Marketplace financeiro
-
-Parcerias com fintechs
 ```
 
 ---
