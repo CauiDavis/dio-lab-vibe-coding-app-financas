@@ -1,6 +1,6 @@
 # 💸 App de Organização de Finanças Pessoais com Vibe Coding
 
-Aprenda a **criar soluções com IA** de forma criativa, guiando ferramentas como o **Copilot** e o **Lovable** com uma comunicação simples e natural. O foco é desenvolver o conceito de um **App de Organização de Finanças Pessoais**, mas, acima de tudo, aprender o **jeito Vibe de programar com IA**.
+Aprenda a **criar soluções com IA** de forma criativa, guiando ferramentas como o **Chatgpt** e o **Lovable** com uma comunicação simples e natural. O foco é desenvolver o conceito de um **App de Organização de Finanças Pessoais**, mas, acima de tudo, aprender o **jeito Vibe de programar com IA**.
 
 ## 📝 PRD refinado pelo Chatgpt
 
@@ -315,55 +315,113 @@ Parcerias com fintechs
 ## 🎯 Resultado Final
 
 Acesse o protótipo funcional no Lovable:  
-**[conversa-fin-amigo.lovable.app](https://conversa-fin-amigo.lovable.app/)**
+**[my-finance-craft.lovable.app](https://my-finance-craft.lovable.app/)**
 
-<img width="1920" height="945" alt="image" src="https://www.awesomescreenshot.com/image/58766538?key=cf28899087673fcd57ba472bb36a5183" />
+<img width="1920" height="945" alt="image" src="https://github.com/CauiDavis/dio-lab-vibe-coding-app-financas/blob/main/Lovable%20App.png" />
+
+---
+
+# 📱 FinControl — Funcionalidades do App
+
+## 🧭 Navegação
+- Dashboard principal
+- Tela de transações
+- Navegação superior simples:
+  - Dashboard
+  - Transações
 
 ---
 
-## 🔍 Funcionalidades do App de Organização Financeira
-
-### 1. Dashboard Financeiro
-- Exibe um panorama claro das finanças pessoais:
-  - **Receitas**: Total de ganhos registrados
-  - **Despesas**: Total de gastos
-  - **Saldo**: Diferença entre receitas e despesas
-- Interface simples e direta para facilitar a compreensão
-
-### 2. Assistente Financeiro
-- Personagem conversacional que interage com o usuário
-- Incentiva a conexão de contas e cartões para uma visão completa das finanças
-- Oferece suporte emocional e motivacional
-
-### 3. Registro de Transações via Chat
-- Campo de entrada para o usuário digitar mensagens em linguagem natural
-- Permite registrar gastos e interagir com o assistente de forma fluida
-
-### 4. Metas Financeiras
-- Área dedicada à criação e acompanhamento de objetivos financeiros
-- Sugestão proativa para o usuário definir metas
-- Botão de ação para adicionar novas metas
-
-### 5. Relatórios Personalizados
-- Visualizações simples e adaptadas ao estilo do usuário
-- Acompanhamento de metas e progresso financeiro
-
-### 6. Design Universal
-- Interface acessível e inclusiva:
-  - Linguagem simples
-  - Navegação clara
-  - Compatibilidade com leitores de tela e comandos por voz
-  - Feedbacks visuais e auditivos para facilitar o uso
+## ➕ Gestão de Transações
+- Botão **+ Nova transação**
+  - Cadastro de receitas
+  - Cadastro de despesas
 
 ---
+
+## 💰 Visão Financeira Geral (Dashboard)
+
+### 📊 Cards principais
+- **Saldo**
+  - Exibe o saldo total atual
+- **Receitas**
+  - Total de entradas financeiras
+- **Despesas**
+  - Total de saídas financeiras
+
+---
+
+## 📁 Organização Financeira
+
+### 🧾 Despesas por categoria
+- Visualização de gastos categorizados
+- Estrutura para gráficos por categoria
+- Estado vazio:
+  - “Nenhuma despesa este mês”
+
+---
+
+## 🔁 Histórico de Movimentações
+
+### 📄 Transações recentes
+- Lista das últimas transações
+- Link **Ver todas**
+  - Acesso à listagem completa
+- Estado vazio:
+  - “Nenhuma transação encontrada”
+
+---
+
+## 📅 Filtro Temporal
+- Visualização por período (mês/ano)
+  - Exemplo: Fevereiro de 2026
+
+---
+
+## ⚙️ Funcionalidades Estruturais
+- Sistema de categorias
+- Sistema de receitas e despesas
+- Sistema de saldo automático
+- Histórico financeiro
+- CRUD de transações
+- Organização mensal
+- Dashboard analítico
+- Estrutura de relatórios
+- Separação lógica de dados (receita vs despesa)
+
+---
+
+## 🧠 Arquitetura Funcional
+- Persistência de dados
+- Sistema de transações
+- Sistema de categorias
+- Sistema de agregação de valores
+- Filtros por data
+- Estado global financeiro
+- Camada analítica
+- Camada de visualização
+
+---
+
+## 📌 Resumo
+- Controle financeiro pessoal
+- Registro de receitas e despesas
+- Organização por categorias
+- Histórico mensal
+- Dashboard financeiro
+- Estrutura escalável
+- Base para automação
+- Base para IA financeira
+- Base para relatórios inteligentes
+
 
 ## 🧠 Reflexão
 
 ### O que funcionou bem?  
-O refinamento do PRD previamente feito no Copilot ajudou muito, pois os créditos do Lovable acabaram em apenas 3 interações.
+O refinamento do PRD previamente feito no Chatgpt ajudou muito, ele deu mais dados que o copilot da aula, eu usei poucos crédtios no Lovable acabaram em apenas 1 interação (não adicionei o chat para não correr risco de ficar sem créditos para conserta-lo).
 
 ### O que não funcionou como o esperado?  
-Esperava poder interagir mais vezes gratuitamente com o Lovable, mas as interações feitas já foram de grande valia para aprender mais sobre Vibe Coding.
+Esperava poder interagir mais vezes gratuitamente com o Lovable, mas as interações feitas já foram de grande valia para aprender mais sobre Vibe Coding, além disso, eu usei o v0 e fiquei sem crédito por conta da conta free, seria bom se tivesse mais interações.
 
 ### O que aprendi sobre conversar com IAs?  
-Aprendi que é basicamente igual a conversar com uma pessoa: quanto mais detalhes e clareza você dá, melhor é a interação.
+Aprendi que é basicamente igual a conversar com uma pessoa: quanto mais detalhes e clareza você dá, melhor é a interação, porém tem algumas IAs que tem as suas limitações como a v0 que não funcionou de jeito nenhum o chat para interação, não sei se é por que eu preciso fazer alguma integração antes.
