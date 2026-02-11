@@ -313,7 +313,7 @@ Acesse o protótipo funcional no Lovable:
 ## 🧠 Reflexão
 
 ### O que funcionou bem?  
-O refinamento do PRD previamente feito no Chatgpt ajudou muito, ele deu mais dados que o copilot da aula, eu usei poucos crédtios no Lovable acabaram em apenas 1 interação (não adicionei o chat para não correr risco de ficar sem créditos para conserta-lo).
+O refinamento do PRD previamente feito no Chatgpt ajudou muito, ele deu mais dados que o copilot da aula, eu usei poucos créditos no Lovable acabaram em apenas 1 interação (não adicionei o chat para não correr risco de ficar sem créditos para conserta-lo).
 
 ### O que não funcionou como o esperado?  
 Esperava poder interagir mais vezes gratuitamente com o Lovable, mas as interações feitas já foram de grande valia para aprender mais sobre Vibe Coding, além disso, eu usei o v0 e fiquei sem crédito por conta da conta free, seria bom se tivesse mais interações.
